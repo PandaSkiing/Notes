@@ -5,8 +5,9 @@
 
 🧡 Interests?
 >> DeFi, the trustless financial system //
->> Blockchain, the fundamental for next-generation society //
->> Cryptocurrency, the future currency, payment, utility, goverance etc // 
+Blockchain, the fundamental for next-generation society //
+>> Cryptocurrency, the future currency, payment, utility, goverance etc //
+>> NFT, digital arts as the best collection for best artists around the world // 
 >> AI, the excellent improvements for human beings // 
 >> Entrepreneurship, if you want to achieve a certain point, then you need to create that point // 
 >> Muay Thai, not strong, not smart // 

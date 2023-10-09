@@ -1,33 +1,38 @@
 # PandaSkiing-s-thoughts-and-notes
 
-👨 What should you call me as?
->> Hi, I’m James AKA in Web3: PandaSkiing 
+👨 **Name**: James
 
-🧡 Interests?
->> DeFi, the trustless financial system //
-Blockchain, the fundamental for next-generation society //
->> Cryptocurrency, the future currency, payment, utility, goverance etc //
->> NFT, digital arts as the best collection for best artists around the world // 
->> AI, the excellent improvements for human beings // 
->> Entrepreneurship, if you want to achieve a certain point, then you need to create that point // 
->> Muay Thai, not strong, not smart // 
->> Lover, good love with partner, friends, family, make me the dynamic of world // 
+🌐 **Web3 Alias**: PandaSkiing
 
-🏆 My working experiences?
->> 2021-2022, Neo Smart Economy, NGD (Neo Global Development) MKT Intern // 
->> 2022-2023, Ohdat Labs, Senior Community Manager // 
->> 2023, Pacman Finance, Head of Operations and Business Development // 
->> 2023, RΞSPECT, Co-founder // 
+🧡 **Interests**:
+- DeFi: Exploring the trustless financial system.
+- Blockchain: Fascinated by the fundamental technology for the next-generation society.
+- Cryptocurrency: Believing in the future of currency, payments, utility, governance, and more.
+- NFTs: Passionate about digital arts as the best collection for artists worldwide.
+- AI: Excited about the excellent improvements it brings to human beings.
+- Entrepreneurship: Believing in creating your own path to success.
+- Muay Thai: Pursuing physical fitness and discipline.
+- Love: Cherishing meaningful relationships with partners, friends, and family, adding dynamism to the world.
 
-💻 My Skills?
->> Python // 
->> JavaScript // 
->> Solidity // 
->> SQL // 
->> R // 
->> Stata // 
+🏆 **Work Experience**:
+- 2021-2022: Neo Smart Economy, NGD (Neo Global Development) MKT Intern.
+- 2022-2023: Ohdat Labs, Senior Community Manager.
+- 2023: Pacman Finance, Head of Operations and Business Development.
+- 2023: RΞSPECT, Co-founder.
 
-📱 Way to contact? 
->> Email, james.hxj701@gmail.com // 
->> Twitter, @PandaSkiing // 
->> Telegram, @Panda_Skiing // 
+⭐️ **Personal Achievements**:
+- 3rd place of Waterdrip capital global entrepreneurship program
+- The first graduates of Alchemy University 
+
+💻 **Skills**:
+- Python.
+- JavaScript.
+- Solidity.
+- SQL.
+- R.
+- Stata.
+
+📱 **Contact Me**:
+- Email: [james.hxj701@gmail.com](mailto:james.hxj701@gmail.com).
+- Twitter: [@PandaSkiing](https://twitter.com/PandaSkiing).
+- Telegram: [@Panda_Skiing](https://t.me/Panda_Skiing).
